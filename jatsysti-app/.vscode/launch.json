@@ -1,0 +1,280 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "com.jatsys.App",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise01",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise01",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise02",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise02",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise03",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise03",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise04",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise04",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise05",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise05",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise06",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise06",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise07",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise07",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise08",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise08",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise09",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise09",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise10",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise10",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise11",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise11",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise12",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise12",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise13",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise13",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise14",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise15",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise15",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise16",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise16",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise17",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise17",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise19",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise19",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise20",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise20",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise21",
+            "request": "launch",
+            "mainClass": "com.jatsys.decisionstructure.Exercise21",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise01(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise01",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise02(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise02",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise04(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise04",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise05(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise05",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise06(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise06",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise07(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise07",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise08(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise08",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise09(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise09",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise10(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise10",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise11(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise11",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise12(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise12",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise13(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise13",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise14(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise14",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise15(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise15",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise16(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise16",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise17(1)",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise17",
+            "projectName": "jatsysti-app"
+        },
+        {
+            "type": "java",
+            "name": "Launch Exercise18",
+            "request": "launch",
+            "mainClass": "com.jatsys.sequentialstructure.Exercise18",
+            "projectName": "jatsysti-app"
+        }
+    ]
+}
