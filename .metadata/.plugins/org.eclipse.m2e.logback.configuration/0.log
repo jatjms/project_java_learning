@@ -82,3 +82,41 @@
 2022-08-16 11:20:24,325 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/main/resources
 2022-08-16 11:20:24,333 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-08-16 11:20:24,342 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/test/resources
+2022-08-16 11:35:13,865 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-16 11:38:11,533 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 11:38:11,551 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/main/resources
+2022-08-16 11:38:11,571 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 11:38:11,572 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/test/resources
+2022-08-16 11:41:46,037 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 11:41:46,050 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/main/resources
+2022-08-16 11:41:46,094 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 11:41:46,107 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/test/resources
+2022-08-16 11:42:02,526 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 11:42:02,527 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/main/resources
+2022-08-16 11:42:02,553 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 11:42:02,558 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/test/resources
+2022-08-16 11:42:03,699 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 11:42:03,699 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/main/resources
+2022-08-16 11:42:03,711 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 11:42:03,712 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/test/resources
+2022-08-16 11:45:25,971 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 11:45:25,985 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/main/resources
+2022-08-16 11:45:26,016 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 11:45:26,023 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/test/resources
+2022-08-16 14:32:29,835 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-08-16 14:35:55,583 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 14:35:55,588 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/main/resources
+2022-08-16 14:35:55,621 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 14:35:55,624 [Worker-13: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/test/resources
+2022-08-16 14:49:36,713 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 14:49:36,714 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/main/resources
+2022-08-16 14:49:36,739 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 14:49:36,740 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/test/resources
+2022-08-16 14:50:08,612 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 14:50:08,613 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/main/resources
+2022-08-16 14:50:08,639 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 14:50:08,639 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/test/resources
+2022-08-16 14:50:09,969 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 14:50:09,975 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/main/resources
+2022-08-16 14:50:09,985 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-08-16 14:50:09,998 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app/src/test/resources

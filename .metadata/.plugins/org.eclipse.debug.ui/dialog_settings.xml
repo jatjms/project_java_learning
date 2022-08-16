@@ -5,4 +5,11 @@
 		<item key="DIALOG_HEIGHT" value="365"/>
 		<item key="DIALOG_FONT_NAME" value="1|Noto Sans|10.0|0|GTK|1|"/>
 	</section>
+	<section name="org.eclipse.debug.ui.STRING_VARIABLE_SELECTION_DIALOG_SECTION">
+		<item key="DIALOG_X_ORIGIN" value="71"/>
+		<item key="DIALOG_Y_ORIGIN" value="-65"/>
+		<item key="DIALOG_WIDTH" value="382"/>
+		<item key="DIALOG_HEIGHT" value="662"/>
+		<item key="DIALOG_FONT_NAME" value="1|Noto Sans|10.0|0|GTK|1|"/>
+	</section>
 </section>
