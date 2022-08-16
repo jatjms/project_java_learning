@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e97dcb03-2d14-4d7b-bb11-d1e6d856e552" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise09.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise16.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise17.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise19.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise19.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise20.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise20.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise21.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise21.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise22.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise23.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise23.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise24.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise24.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise25.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise25.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise26.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise26.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise27.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise27.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise28.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/decisionstructure/Exercise28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/repetitionStructure/Exercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/repetitionStructure/Exercise01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/repetitionStructure/Exercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/repetitionStructure/Exercise02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise01.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise02.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise03.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise04.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise05.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise06.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise06.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise07.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise07.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise08.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise08.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise09.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise10.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise11.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise12.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise12.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise13.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise14.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise14.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise15.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise16.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise17.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise18.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/jatsys/sequentialstructure/Exercise18.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/jatsys/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/jatsys/AppTest.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2D37Lz9ACqfzQu2monhkjmBqKCn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/jatjms/Documentos/Dev/project_java_learning/jatsysti-app"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e97dcb03-2d14-4d7b-bb11-d1e6d856e552" name="Changes" comment="" />
+      <created>1659915869759</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1659915869759</updated>
+    </task>
+    <servers />
+  </component>
+</project>
